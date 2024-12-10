@@ -1,0 +1,1 @@
+To solve the specificity issue, adjust the order of selectors to ensure the desired styling takes precedence.  Alternatively, you can use more specific selectors in your general rule to avoid the conflict. If all else fails, use `!important` sparingly. But generally prefer a more maintainable solution by reworking your selectors.
